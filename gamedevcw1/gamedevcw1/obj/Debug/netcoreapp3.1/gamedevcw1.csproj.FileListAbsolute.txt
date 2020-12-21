@@ -24,3 +24,16 @@ C:\Users\Dhari Kamal\OneDrive\Desktop\gamedevCw1\gamedev-cw-1\gamedevcw1\gamedev
 C:\Users\Dhari Kamal\OneDrive\Desktop\gamedevCw1\gamedev-cw-1\gamedevcw1\gamedevcw1\bin\Debug\netcoreapp3.1\gamedevcw1.dll
 C:\Users\Dhari Kamal\OneDrive\Desktop\gamedevCw1\gamedev-cw-1\gamedevcw1\gamedevcw1\bin\Debug\netcoreapp3.1\gamedevcw1.pdb
 C:\Users\Dhari Kamal\OneDrive\Desktop\gamedevCw1\gamedev-cw-1\gamedevcw1\gamedevcw1\obj\Debug\netcoreapp3.1\gamedevcw1.genruntimeconfig.cache
+C:\Users\Dhari Kamal\OneDrive\Desktop\gmedevcw1-2\gamedev-cw-1\gamedevcw1\gamedevcw1\obj\Debug\netcoreapp3.1\gamedevcw1.csprojAssemblyReference.cache
+C:\Users\Dhari Kamal\OneDrive\Desktop\gmedevcw1-2\gamedev-cw-1\gamedevcw1\gamedevcw1\obj\Debug\netcoreapp3.1\gamedevcw1.AssemblyInfoInputs.cache
+C:\Users\Dhari Kamal\OneDrive\Desktop\gmedevcw1-2\gamedev-cw-1\gamedevcw1\gamedevcw1\obj\Debug\netcoreapp3.1\gamedevcw1.AssemblyInfo.cs
+C:\Users\Dhari Kamal\OneDrive\Desktop\gmedevcw1-2\gamedev-cw-1\gamedevcw1\gamedevcw1\obj\Debug\netcoreapp3.1\gamedevcw1.csproj.CoreCompileInputs.cache
+C:\Users\Dhari Kamal\OneDrive\Desktop\gmedevcw1-2\gamedev-cw-1\gamedevcw1\gamedevcw1\obj\Debug\netcoreapp3.1\gamedevcw1.dll
+C:\Users\Dhari Kamal\OneDrive\Desktop\gmedevcw1-2\gamedev-cw-1\gamedevcw1\gamedevcw1\obj\Debug\netcoreapp3.1\gamedevcw1.pdb
+C:\Users\Dhari Kamal\OneDrive\Desktop\gmedevcw1-2\gamedev-cw-1\gamedevcw1\gamedevcw1\bin\Debug\netcoreapp3.1\gamedevcw1.exe
+C:\Users\Dhari Kamal\OneDrive\Desktop\gmedevcw1-2\gamedev-cw-1\gamedevcw1\gamedevcw1\bin\Debug\netcoreapp3.1\gamedevcw1.deps.json
+C:\Users\Dhari Kamal\OneDrive\Desktop\gmedevcw1-2\gamedev-cw-1\gamedevcw1\gamedevcw1\bin\Debug\netcoreapp3.1\gamedevcw1.runtimeconfig.json
+C:\Users\Dhari Kamal\OneDrive\Desktop\gmedevcw1-2\gamedev-cw-1\gamedevcw1\gamedevcw1\bin\Debug\netcoreapp3.1\gamedevcw1.runtimeconfig.dev.json
+C:\Users\Dhari Kamal\OneDrive\Desktop\gmedevcw1-2\gamedev-cw-1\gamedevcw1\gamedevcw1\bin\Debug\netcoreapp3.1\gamedevcw1.dll
+C:\Users\Dhari Kamal\OneDrive\Desktop\gmedevcw1-2\gamedev-cw-1\gamedevcw1\gamedevcw1\bin\Debug\netcoreapp3.1\gamedevcw1.pdb
+C:\Users\Dhari Kamal\OneDrive\Desktop\gmedevcw1-2\gamedev-cw-1\gamedevcw1\gamedevcw1\obj\Debug\netcoreapp3.1\gamedevcw1.genruntimeconfig.cache
