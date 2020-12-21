@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dhari Kamal\\OneDrive\\Desktop\\gamedev-cw-1\\gamedev-cw-1\\gamedevcw1\\gamedevcw1\\gamedevcw1.csproj",
+      "projectUniqueName": "C:\\Users\\Dhari Kamal\\OneDrive\\Desktop\\gamedevCw1\\gamedev-cw-1\\gamedevcw1\\gamedevcw1\\gamedevcw1.csproj",
       "projectName": "gamedevcw1",
-      "projectPath": "C:\\Users\\Dhari Kamal\\OneDrive\\Desktop\\gamedev-cw-1\\gamedev-cw-1\\gamedevcw1\\gamedevcw1\\gamedevcw1.csproj",
+      "projectPath": "C:\\Users\\Dhari Kamal\\OneDrive\\Desktop\\gamedevCw1\\gamedev-cw-1\\gamedevcw1\\gamedevcw1\\gamedevcw1.csproj",
       "packagesPath": "C:\\Users\\Dhari Kamal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dhari Kamal\\OneDrive\\Desktop\\gamedev-cw-1\\gamedev-cw-1\\gamedevcw1\\gamedevcw1\\obj\\",
+      "outputPath": "C:\\Users\\Dhari Kamal\\OneDrive\\Desktop\\gamedevCw1\\gamedev-cw-1\\gamedevcw1\\gamedevcw1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dhari Kamal\\AppData\\Roaming\\NuGet\\NuGet.Config",
