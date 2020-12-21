@@ -4,6 +4,8 @@ namespace gamedevcw1
 {
     class Program
     {
+        public static bool AgeDiffe { get; private set; }
+
         static void Main(string[] args)
         {
             String CharName = "Ahmed";
@@ -17,11 +19,13 @@ namespace gamedevcw1
             string Spower1 = "fire";
             string Spower2 = "moving fast";
             bool isBoss = true;
+            
 
             Console.WriteLine("My name is {0}, My SuperPower is {1}, {2}, am {3} years old, my speed is {4}", CharName, superpower1, superpower2, age, Speed);
             Console.WriteLine("My name is {0}, My SuperPower is {1}, {2}, am {3} years old, my speed is {4}", heroName, Spower1, Spower2, Age, speeds);
-
-            Console.WriteLine(age < Age);
+            int AgeDiff = Age - age;
+            Console.WriteLine("the diff is " +AgeDiff);
+           //Console.WriteLine(age -Age);
 
         }
     }
